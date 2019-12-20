@@ -1,0 +1,37 @@
+package m05;
+
+
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Paths;
+import java.util.ArrayList;
+import java.util.List;
+
+public class Module05 {
+
+	public static void main(String[] args){
+		List<String> lines = new ArrayList<String>();
+		try {
+			for (String line : Files.readAllLines(Paths.get("src/m05/Resources/Quote.txt"))) {
+				lines.add(line);
+			}
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+		for (String line : lines) {
+			System.out.println(line);
+			
+		}
+		System.out.println();
+		for (String line : lines) {
+			lines.get(0).toUpperCase();
+			System.out.println(line);
+			
+		}
+
+	}
+
+}
+

@@ -1,0 +1,57 @@
+package m05;
+
+
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Paths;
+import java.util.ArrayList;
+import java.util.List;
+
+public class Module05 {
+
+	public static void main(String[] args){
+		List<String> lines = new ArrayList<String>();
+		try {
+			for (String line : Files.readAllLines(Paths.get("src/m05/Resources/Quote.txt"))) {
+				lines.add(line);
+			}
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+		for (String line : lines) {
+			System.out.println(line);
+		}
+
+	}
+
+}
+
+//String str;
+//List<String> list = new ArrayList<String>();
+//try {
+//	BufferedReader in = new BufferedReader(new FileReader("src/m05/Resources/Quote.txt"));
+//	while((str = in.readLine()) != null) {
+//		list.add(str);
+//	}
+//	System.out.println(list);
+//	String [] stringArr = list.toArray(new String[0]);
+//} catch (IOException e) {
+//	// TODO Auto-generated catch block
+//	e.printStackTrace();
+//}
+
+
+
+
+
+
+
+//try {
+//	List<String> result = Files.readAllLines(Paths.get("src/m05/Resources/Quote.txt"));
+//	System.out.println(result);
+//} catch (IOException e) {
+//	// TODO Auto-generated catch block
+//	e.printStackTrace();
+//}

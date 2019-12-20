@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract method &apos;private static void numberArrPrinter(List&lt;Integer&gt; numbers)&apos; from &apos;labCollection.Warmup.main()&apos; to &apos;labCollection.Warmup&apos;&#x0A;- Original project: &apos;1410_LABS&apos;&#x0A;- Method name: &apos;numberArrPrinter&apos;&#x0A;- Destination type: &apos;labCollection.Warmup&apos;&#x0A;- Declared visibility: &apos;private&apos;" comments="false" description="Extract method &apos;numberArrPrinter&apos;" destination="0" exceptions="false" flags="786434" id="org.eclipse.jdt.ui.extract.method" input="/src&lt;labCollection{Warmup.java" name="numberArrPrinter" replace="false" selection="245 110" stamp="1573142558134" version="1.0" visibility="2"/>
+</session>

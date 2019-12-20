@@ -1,0 +1,12 @@
+package guiIntro;
+
+import javax.swing.JPanel;
+import javax.swing.JTextField;
+
+public class RedLbl {
+	public JPanel contentPane;
+	public JTextField textField;
+
+	public RedLbl() {
+	}
+}

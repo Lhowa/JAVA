@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 4 elements from project &apos;LabPolymorphism&apos;&#x0A;- Original project: &apos;LabPolymorphism&apos;&#x0A;- Original elements:&#x0A;     CircusDog.java&#x0A;     Dog.java&#x0A;     DogApp.java&#x0A;     SledDog.java" description="Delete elements" element1="Dog.java" element2="DogApp.java" element3="SledDog.java" element4="CircusDog.java" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="4" stamp="1569249023072" subPackages="false" version="1.0"/>
+</session>

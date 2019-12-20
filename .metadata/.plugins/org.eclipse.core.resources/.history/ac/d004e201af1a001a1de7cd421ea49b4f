@@ -1,0 +1,32 @@
+package ioURL;
+
+import java.io.IOException;
+import java.io.InputStream;
+import java.net.MalformedURLException;
+import java.net.URL;
+
+public class DemoURLAccess {
+
+	public static void main(String[] args) {
+		String urlString = "https://www.gutenberg.org/files/46768/46768-0.txt";
+		
+		try {
+			URL url = new URL(urlString);
+			
+			 InputStream stream = url.openStream();
+			
+		} catch (MalformedURLException e) {
+			 System.out.println(
+			         "We encountered a problem regarding the following URL:\n" 
+			         + urlString 
+			         + "\nEither no legal protocol could be found or the string could not be parsed.");
+			e.printStackTrace();
+		} catch (IOException e) {
+			 System.out.println("Attempting to open a stream from the following URL:\n" 
+			         + urlString
+			         + "\ncaused a problem.");
+			   e.printStackTrace();
+		}
+	}
+
+}

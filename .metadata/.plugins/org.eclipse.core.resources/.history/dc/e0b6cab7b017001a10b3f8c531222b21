@@ -1,0 +1,63 @@
+package m05;
+
+
+import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.io.PrintWriter;
+import java.nio.charset.StandardCharsets;
+import java.nio.file.Files;
+import java.nio.file.Paths;
+import java.util.ArrayList;
+import java.util.List;
+
+public class Module05 {
+
+	public static void main(String[] args){
+		List<String> lines = new ArrayList<String>();
+		try {
+			for (String line : Files.readAllLines(Paths.get("src/m05/Resources/Quote.txt"))) {
+				lines.add(line);
+			}
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+		for (String line : lines) {
+			System.out.println(line);	
+		}
+		
+		System.out.println();
+		
+		for (int i = 0; i < lines.size(); i++) {
+			if(i % 2 == 0) {
+				lines.set(i, lines.get(i).toUpperCase());
+			}else {
+				lines.set(i, lines.get(i).toLowerCase());
+			}
+		}
+		
+		for (int i = 0; i < lines.size(); i++) {
+				if (i + 1 < 10) {
+					System.out.printf("0%d %s%n",i+1,lines.get(i));
+				}else {
+					System.out.printf("%d %s%n",i+1,lines.get(i));
+				}
+		}
+		
+		String file = "src/m05/Resources/Quote2.txt";
+		
+		try {
+			PrintWriter writer = new PrintWriter(file);
+			for (int i = 0; i < lines.size(); i++) {
+				writer.println("hi");
+			}writer.close();
+		} catch (FileNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		System.out.println("Done...");
+	}
+
+}
+

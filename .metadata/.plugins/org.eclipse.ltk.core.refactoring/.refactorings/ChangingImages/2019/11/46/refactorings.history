@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;images&apos; to &apos;TestInstaClone/src&apos;&#x0A;- Original project: &apos;ChangingImages&apos;&#x0A;- Destination element: &apos;TestInstaClone/src&apos;&#x0A;- Original element: &apos;ChangingImages/src/images&apos;&#x0A;- Update references to refactored element" description="Move package" destination="=TestInstaClone/src" element1="/src&lt;images" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1573757752349" version="1.0"/>
+</session>

@@ -1,0 +1,21 @@
+1571673774028	Extract method 'mainPanel'
+1571673799718	Extract method 'controlPanel'
+1571673813655	Extract method 'checkBox1'
+1571673821491	Extract method 'checkBox2'
+1571673838793	Extract method 'checkBox3'
+1571673851694	Extract method 'changeButton'
+1571676824475	Convert local variable 'checkBoxTop' to field
+1571676931387	Convert local variable 'labelTop' to field
+1571677082550	Convert local variable 'checkBoxBottom' to field
+1571677088182	Convert local variable 'checkBoxMiddle' to field
+1571677101554	Convert local variable 'labelMiddle' to field
+1571677109403	Convert local variable 'labelBottom' to field
+1571685988118	Delete elements
+1571687701696	Delete element
+1571687706581	Delete element
+1571687710493	Delete element
+1571687878922	Delete element
+1571687882391	Delete element
+1571687884537	Delete element
+1571687981127	Delete elements
+1571838527675	Delete elements

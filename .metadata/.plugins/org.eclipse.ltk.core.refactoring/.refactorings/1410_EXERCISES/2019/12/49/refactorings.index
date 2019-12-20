@@ -1,0 +1,6 @@
+1575309161264	Rename package 'fileIO.textFIles'
+1575309598860	Extract method 'writeNumbersToFile'
+1575310665413	Extract method 'writeNumbersInDecimalOctalAndHex'
+1575400864536	Extract method 'serializeWords'
+1575401630741	Extract method 'deserializeWords'
+1575403246453	Extract method 'deserializeTriangles'

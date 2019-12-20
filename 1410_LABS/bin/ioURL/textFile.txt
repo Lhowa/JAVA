@@ -1,0 +1,1861 @@
+﻿The Project Gutenberg EBook of Julius Caesar, by William Shakespeare
+This eBook is for the use of anyone anywhere in the United States and most
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+www.gutenberg.org.  If you are not located in the United States, you'll have
+
+
+
+
+
+
+
+
+
+Produced by Carolus Raeticus
+
+
+
+
+LATINE REDDIDIT
+
+
+
+
+OXFORD AND LONDON:
+JOHN HENRY AND JAMES PARKER:
+CAMBRIDGE: DEIGHTON, BELL, & Co.;
+ETON: E. P. WILLIAMS.
+MDCCCLVI.
+
+
+
+The translator has been induced by the following considerations to
+
+readiest mode of acquiring a dead language, and of imbuing the mind
+recognised in the practice of the schools of this country.
+The translator has long been persuaded that the very remarkable
+of the Greek and Latin languages, and the knowledge of either
+neglect of translation, and to the preference shewn for what is
+
+learns to write without them; instead of enriching his language, he
+grammatical distinctions, and attaining to choice expression and
+phraseology, which evade all the difficulties of composition, and
+
+disappointments thence continually ensuing, have given rise to a
+the expediency of retaining the teaching of the Greek and Latin
+little practical advantage resulting therefrom; and they say that the
+the acquisition of knowledge of various kinds more immediately
+
+there is considerable force in the objection thus stated: and that,
+labour given, the knowledge acquired is, in the great majority of
+looked upon by its possessor as matter rather of painful memory than
+classical education have certainly no easy task to maintain their
+
+or the value of what is called a classical education, for which this
+objection as above stated would gradually be deprived of much of its
+the original composition, now so universally required, a large and
+of our schools.
+With the hope of calling attention to this subject, and not as
+criticism the present somewhat novel production. He trusts that,
+grandeur of the original, it may, thanks to a revision by more than
+
+
+DRAMATIS PERSONÆ.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Comites._
+VARRO, CLITUS, CLAUDIUS, STRATO, LUCIUS, DARDANIUS, _Bruti Famuli._
+PINDARUS, _Cassii Mancipium._
+
+
+
+
+
+
+JULII CÆSARIS.
+
+
+
+SCENA I.
+ROMÆ _Via quædam._
+FLAVIUS, MARULLUS, CIVIUM TURBA.
+_Flav._--Hinc, domum, ignavi; apagite, domum; num hodie ferias
+deambulare, nisi insignibus artis suæ induto? Heus tu! Cujusnam
+
+
+nitidior? Heus et tu; quamnam et tu artem?
+_Civis 2._--Nullam sane artem ego, domine; opifex sum inops, non
+
+
+versor.
+_Mar._--Quale opus, impudens? quale opus tuum?
+_Civis 2._--Ne, domine, rumparis. Sin te ruperis, ego te consuere
+
+
+
+
+crepidam. Calceorum veterum chirurgus sum; illos, quantumvis ægros,
+qui operi meo innituntur.
+_Mar._--Quare autem hodie foris? Quid est quod hosce tecum circa vias
+
+ferant. Sed tamen, ut verum dicam, domine, ferias agimus, ut Cæsarem
+
+retulit? Quot captos duces, qui devincti currum ejus triumphalem
+stupidumque; O dura ilia; O Romani excordes; nonne Pompeium
+immo atque in summa tectorum culmina scandebatis, infantibus vobiscum
+dum Magnus per Romæ vias pompam duceret: curruque ejus vixdum viso,
+strepitu per concavas ripas replicato? Iidemque nunc induitisne
+spargitis, qui super Pompeii cadaver triumphans incedit? Abite! domos
+animis summo jure debitam avertant.
+_Fla._--Ite, redite, mî boni; et, ut culpam eluatis, vos, et
+instillate, donec, amnis, modo tenuis, exundans summam ripam
+
+
+dilabuntur. Tu illac ad Capitolium; ego hac: statuas, si quas
+
+
+Ego circumibo, vulgusque de viis compellam; idem fac et tu, sicubi
+Cæsar se levare non poterit, qui harum ope trans oculos volitaret,
+
+
+SCENA II.
+ROMÆ _Platea quædam._
+_Pompa quædam._ CÆSAR, ANTONIUS (_in cursum paratus_), CALPURNIA,
+ARUSPEX.
+_Cæs._--Calpurnia,--
+_Casc._--Tacendum. Cæsar loquitur.
+_Calp._--Adsum, Cæsar.
+_Cæs._--Antonio cursum agenti te obviam habeto. Antoni--
+_Ant._--Quid? Cæsar, domine.
+_Cæs._--Ne negligas, Antoni, cursûs studio, Calpurniam tangere:
+sterilitatis vinculis exsolvi posse.
+_Ant._--Non negligam: quum Cæsar 'Fiat' dixerit, factum est.
+_Cæs._--Ordinentur jam ludi, et ne quis absit ritus.
+      [_Musica. Tubae._
+_Arusp._--Cæsar--
+_Cæs._--Quis me vocat?
+_Casc._--Taceant omnes. Taceant, inquam.
+      [_Silent tubæ._
+_Cæs._--Quis ex turbâ me appellat? Vocem audio exsuperantem tubas,
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ne autem tibi impedimento sim, abibo.
+_Cass._--Jamdudum te observo, Brute. In vultu tuo minus quam olim
+habes in amicum amantissimum tui.
+_Brut._--Erras, mî Cassi: si quando aspectum hunc meum mutaverim,
+animi motibus, cogitationibus mihimet ipsi propriis, quæ me fortasse
+semper esto) neve neglectum meum alioqui interpretentur, quam quod
+constanter indicet.
+_Cass._--Ergo, Brute, mentem tuam hactenus parum intellexi; ideoque
+in sepulchro habui. Dic mihi, Brute optime; num in faciem tuam potes
+
+speculo quodam depictum.
+_Cass._--Verum dicis. Multum igitur dolemus, Brute, te non istiusmodi
+tuam ipsius imaginem agnoscere queas. Audivi quidem, cum plures
+sub hujusce sæculi jugo gementes optarent nobili Bruto suos oculos
+
+meipso exposcam quod meum non est, me ita provoces?
+_Cass._--Idcirco, Brute optime, auscultes velim; et quum fatearis te
+inspicere, ego, tanquam ipse speculum, ea quæ, quamvis tua sint,
+habeas, Brute, utpote levem assentatorem, solitumque, Dîs invocatis,
+adulari, amplectique; dein eundem calumniari; vel me in epulis
+ [_Tubae, acclamationes._
+_Brut._--Sed quid vult acclamatio ista? vereor ne plebs Cæsarem
+
+
+tamdiu moraris? Quid est quod mihi communicatum velis? Si quid, quod
+proponas; ego in alterutrum æquis oculis inspiciam. Ita enim me Dî
+
+oris tui agnosco. Age vero; honor sermonis nostri argumentum esto.
+censeant non satis scio; sed, quod ad me attinet, malim omnino non
+æqualem, continue pertimescam. Uterque nostrûm, æque ac Cæsar,
+gelu potest pati. Olim, memini, die ventoso frigidoque, cum turbidus
+iratas illas undas insilire, et ad adversam ripam natare?" Dicto,
+nervosis brachiis huc illuc fluctus rejicientes animose in adversum
+clamitabat Cæsar, "ne peream." Tum, ut Æneas, atavus illustris
+ex Tiberinis fluctibus Cæsarem defatigatum eripui. Ecce autem! idem
+Cæsaris nutum corpus inclinare coactus. Olim in Iberiâ hic Cæsar
+immo, Divus hic tremebat. Notabam labia ejus præ timore pallescere;
+terrarum orbis. Gemere illum præterea audiebam. Immo, et illa ipsa
+tabellis inscribere, ea, inquam, lingua, "Eheu, da mihi potum,
+immortales! stupeo attonitus hominem vili adeo et male temperato
+sibi auferre potuisse.
+      [_Acclamationes. Tubæ._
+_Brut._--Acclamationes iterum audio. Vix dubito quin hi plausus novos
+
+angustum, divaricatis cruribus, superstat; et nos, pusilli, nanique,
+liceat sepulcra, etiamsi inhonesta sint, nobismet reperire. Quid
+astra, mî Brute, sed nosmet ipsi inculpandi, si inferiores
+nomen hoc magis quam illud per aures hominum resonet? Ambo simul
+non minus ora hominum complet; ambo expendas; tuum non minus grave
+Cæsaris manes obsequentur.
+      [_Acclamationes._
+Nunc, per Deos omnes et singulos, quali cibo nutritus est hic noster
+illustrium virorum stirpe orbata es! Quando enim præteriit ætas
+inclaruerit? Quando ante hæc nostra tempora, quisquam, de Româ
+sufficere? Hæc Roma nostra profecto eadem videtur; et Romæ abunde
+pudor! ego et tu, Brute, a patribus nostris accepimus quemdam olim
+minus quam Regem pertulisset.
+_Brut._--Amori tuo, Cassi, nunquam diffisus sum. Quid istud sit ad
+et de his temporibus ipse jamdudum cogitaverim, postea tibi
+amplius instes. Quæ jam locutus es, perpendam; quæ postea locuturus
+ad, ut in re tam gravi, respondendum. Interea, mî Cassi, hanc meam
+temporum conditionibus, præsentibus futurisque, se civem Romanum
+
+Bruto excudisse.
+[_Redit_ CÆSAR _cum suis_
+_Brut._--Transacti ludi sunt: redit Cæsar.
+_Cass._--Cascæ prætereuntis manicam velle: ille, acri more suo,
+
+iratæ ferveant maculæ! qui aliis omnibus demissi et castigati
+intuetur, uti in Capitolio solet, si aliquando Senatores illi male
+
+
+
+
+noctem edormiunt. Cassius iste aspectu macro nimis aridoque est.
+
+est, optime affectus.
+_Cæs._--Utinam pinguior esset:--nihil metuo tamen: sin autem
+quem æque vitandum judicarem, ac macrum istum Cassium. Multa legit;
+Antoni, frequentat; musicam fastidit; raro faciem in risum relaxat;
+contemptu, qui ad hoc ullomodo moveri possit. Tales semper ægre
+idcirco imprimis cavendi sunt. Quod vulgo metuendum est, non quod ego
+enim aure surdior sum, et dic mihi quid de illo vere censeas.
+      [_Exit_ CÆSAR _cum suis--manet_ CASCA.
+_Casc._--Togam meam, Brute, vellebas; visne aliquid loqui?
+_Brut._--Immo, Casca; dic nobis quid hodie acciderit ut Cæsar
+
+
+
+manu, ad hunc morem dimovit; plebs statim acclamavit.
+_Brut._--Cur autem iterum plausus iste?
+_Casc._--Propter idem.
+_Cass._--Ter plaudebant; quid tertius iste clamor?
+_Casc._--Propter idem.
+_Brut._--Num igitur ter oblatum erat diadema?
+_Casc._--Scilicet, ter; et ille ter repudiavit; sed lentius
+vehementius plaudebant.
+_Cass._--Quis illi diadema obtulit?
+_Casc._--Quis nisi Antonius?
+_Brut._--Rem totam nobis, optime, enarra.
+_Casc._--Peream, si potero. Meræ ineptiæ erant. Vix notabam. Vidi
+potius talem qualem--et, ut antea dixi, ille eam pro hac vice
+obtulit Antonius; dimovit iterum Cæsar: sed, me judice, ut manus
+dimovit. In unamquamque vicem ululabat turba, scabris manibus
+halitûs emittebat, eo quod Cæsar corollam rejiceret, ut Magnus ille
+quod meum erat, non ausus sum ridere, ne, ore aperto, fædum et ipse
+
+
+edens.
+_Brut._--Morbo, fortasse, comitiali captus est.
+_Cass._--Non isto morbo Cæsar; sed tu, Brute, et ego, et bonus hic
+
+scio. Et per fidem meam fæx ista populi ei plaudebat, et sibilabat,
+
+
+lætatum esse quod ille corollam rejiceret, tunicam divellit, et
+cum damnatis posthac in Erebo versari, si non illico percusissem.)
+istos præstantissimos suos, ut, si quid male fecisset aut dixisset,
+quæ mihi adstabant, 'O hominem miserandum' clamaverunt, et illi ex
+condonâssent, etiamsi matres earum trucidâsset.
+_Brut._--Deinde tristis, uti vidimus, rediit.
+_Casc._--Scilicet.
+_Cass._--Annon Cicero locutus est?
+_Casc._--Immo, Græce aliquid.
+_Cass._--Quânam, obsecro te, sententia?
+_Casc._--Per oculos, interpretari nequo! Qui intelligebant inter se
+vero aliud novi est quod vobis dictum velim. Marullus Flaviusque,
+Valeatis. Plus ineptiarum erat quarum vix satis memini.
+_Cass._--Cænamne hac nocte mecum, Casca?
+_Casc._--Nequeo, alibi jussus sum.
+_Cass._--Prandiumne cras?
+_Casc._--Immo, si vivus ego, et tu eâdem mente, et prandium gulâ
+
+
+
+
+eum ingenio memini.
+_Cass._--Atque adhuc promptus ad agendam rem aliquam gravem et
+in sermonibus pro condimento uti solet, ut eorum major sit appetentia.
+_Brut._--Ita credo. Jam te relinquo: cras, si vis mecum loqui, aut
+
+
+
+generosum, in pejus cudi possit. Quam convenit ergo probos cum probis
+queat? Cæsar me aversatur; Brutum amat: quod si ego Brutus essem, et
+quædam in Bruti fenestras injiciam, variâ manu, ut plurium esse
+Cæsaris ambitio tectius indicabunt. Tunc cavet Cæsar; eum enim vel
+
+
+SCENA III.
+_Via quædam._
+_Ex hac parte_ CASCA, _stricto ense, ex illâ_ CICERO.
+_Cic._--Salve, Casca: deduxistine Cæsarem? Sed quid vult iste
+
+instabilis, quassatur? O Cicero, vidi ego quercus nodosas vi turbinis
+furere, quasi gestiret se nubibus minacibus intermiscere: sed nunquam
+Dii gerunt, vel per hanc stragem homines insolentiores castigant.
+_Cic._--Ecquid igitur mirabilius vidisti?
+_Casc._--Servus quidam, tibi notus, sinistram, quasi ex viginti
+Mihi ipsi ad Capitolium (ecce ensem adhuc strictum) obviam venit leo,
+coactæ terrore ipsâ facie mutatâ, jurabunt vidisse viros ignibus
+sedebat, stridens, ululansque. Quum hæc et talia concurrunt, ne quis
+sunt." Ego enim ea esse credo quæ, in quamcunque regionem demissa
+
+signa, sensu plane signis ipsis opposito, pro arbitrio non raro
+
+
+
+
+
+
+
+
+
+
+
+vias perambulavi, noctis hujusce periculis obnoxius; et discinctus,
+contortis quasi fulminibus diffisso, me in ipsum ictum aciemque
+
+et trepidare, quum Dii omnipotentes hæc signa, tam diros iræ suæ
+
+decent, vel cares, vel fovere non vis: palles, stupesque; stas
+causam exquirere velis, quare ignes isti, larvæque fluitantes
+portentosam speciem mutent; quare delirent senes, pueri præsagiant;
+et cautelæ fiant. Equidem possem, Casca, tibi virum nominare, huic
+evocat, rugitque, sicut leo in Capitolio, simillimum; virum neque te
+non minus quam hæc Naturæ monstra.
+_Casc._--Cæsarem, ut opinor, indicas.
+_Cass._--Quem indicem parum refert: Quirites enim hodierni nervos et
+mortui sunt; matrum consiliis gubernamur. Hæc enim sub jugo servilis
+
+conditione, ut diadema, ubicunque velit terrâ marique, exceptâ
+
+satis scio. Cassius a servitio Cassium liberabit. Dî superi! Hoc
+turris lapidea, non murus aheneus, non carcer clausus, validi non
+corporeæ pertæsa, viam sibi aperire semper callet. Quod si ego bene
+id pro arbitrio discutere posse.
+_Casc._--Sic ego, et sic servus quivis, propriâ manu servitutem suam
+
+ageret, nisi quod Romanos oves esse cerneret; non leonem, nisi quod
+ordiuntur. Quam sordida et fæculenta moles hæc nostra Roma est,
+materiem suppeditet! Sed, O dolorem meum! quo me perduxisti? Forsan
+luendum scio. Esto; ensem gero, et discrimen contemno.
+_Casc._--Casca sum--non sycophanta, neque perfidus. Manum accipe: si
+ero.
+_Cass._--Pactum est. Nunc licet scias, Casca, me jamdudum quibusdam
+periculosam, suscipiant; qui jam me in porticu Pompeii expectant. Hac
+nostro operi consentaneam, quam maxime cruentam, igneam et terribilem.
+CINNA.
+_Casc._--Tace. Advenit quidam pede concitato?
+_Cass._--Cinna est; gressum agnosco; nobis amicus. Cinna, quo
+
+
+
+sunt qui mirabilia viderunt.
+_Cass._--Dico tibi, Cinna; num me expectant nostri?
+_Cin._--Immo: O Cassi, si tantum Bruto nobili partium nostrarum esse
+
+prætoris sedili ita ponas, ut Brutus eam inveniat; hanc in fenestram
+Pompeianum; ibi nos reperies. Num Decius Brutus et Trebonius ibi sunt?
+_Cin._--Scilicet, omnes, Metello Cimbro excepto, qui te domi tuæ
+
+
+
+partes jamdudum habemus; uno altero congressu totus noster erit.
+_Casc._--Ille profecto in corde populari penitus insedit; et quod a
+arte magicâ confectum, in rem honestam et laude dignam mutabitur.
+_Cass._--Hominem, pretium hominis, necessitatemque nostram recte
+nos eum e somno excitatum omnem nostrum faciemus.
+      [_Exeunt._
+
+
+
+SCENA I.
+BRUTI _Pomarium._
+BRUTUS.
+_Brut._--Heus, Lucius! heus, tu!--hora quota est? nequeo per astrorum
+esset, quamvis culpandus. Huc, Lucius, huc; expergiscere, Lucium voco.
+_Luc._--Mene, domine, vocabas?
+_Brut._--Lucernam in bibliothecam, Lucius; accensâ, redi ut sciam.
+_Luc._--Factum erit, domine.
+      [_Exit._
+_Brut._--Viam nullam invenio nisi morte ejus. Certe quod meum est,
+appetit:--quæ hujus vis in naturam ejus futura sit, subit quæstio.
+Detur--coronam damus--tunc, fateor, aculeo illum armamus, quo in
+quod pietatem et misericordiam ab imperantis statu sejungere solet.
+apud eum quam consilium valuisse. Ambitio autem adolescens, uti ex
+scandit, oculos figit; at, simul ac apicem occupaverit, subito se
+contemptim despectat. Sic fortasse Cæsar: idcirco, ne sic,
+ferat ad hoc facinus vindicandum, huc rem reducimus; Cæsarem imperio
+pullo serpentis, quem, ne, suorum more, noxius excludatur, in ovo
+
+
+fenestram quærenti hæc charta obsignata mihi in manus venit:
+
+Martii?
+_Luc._--Here, nescio.
+_Brut._--Fastos inspice, et renuntia mihi.
+_Luc._--Faciam.
+      [_Exit_ LUCIUS.
+_Brut._--Fulgura per aerem coruscantia, satis lucis reddunt ut legam.
+      [_Chartam explicat et legit._
+"Brute, dormis; expergiscere, ut te ipsum videas. An Roma ----?
+Hujusmodi incitamenta sæpius obiter disposita offendi. "An Roma
+Avi mei ex Romæ viis Tarquinium expulerunt, quamvis Rex nominabatur.
+Roma, si sic ulciscenda eris, omnia, uti poscis, se pro virili
+
+
+
+
+
+temporis inter actum rei diræ et conceptum intersit, phantasmati vel
+ministri voluntatis humanae, animi affectus; et tota hominis natura,
+
+
+
+
+
+
+vultus circumfusa sunt, ut illos nequaquam agnoscere possim.
+_Brut._--Fac ut intrent. Hæc conjuratorum manus est. O conjuratio!
+liberrima sunt? O ubi igitur invenies antrum ita tenebrosum ut hanc
+quæras; sed in risu et comitate delitescas: nam si foris eas, specie
+indeprehensam habeas.
+CASSIUS, CASCA, DECIUS, CINNA, METELLUS CIMBER, TREBONIUS.
+_Cass._--Vereor ne somnium tuum interruperimus. Salve, Brute; num
+
+tecum sunt?
+_Cass._--Scilicet, omnes: quorum nemo te non magni æstimat; et
+Trebonius.
+_Brut._--Bene est.
+_Cass._--Hic, Decius Brutus.
+_Brut._--Bene.
+_Cass._--Hi, Casca, Cinna, et Metellus Cimber.
+_Brut._--Salvete omnes. At quæ cura intempesta vos vigilare facit?
+_Cass._--Verbum precor.
+      [_Inter se alii summisse loquuntur._
+_Dec._--Hac parte oriens est: annon hac redit dies?
+_Casc._--Non, ut mihi videtur.
+_Cin._--Pace tuâ, Decius recte ait; lineæque istæ translucidæ,
+
+et in notum inclinat, quippe annus adhuc in juventute est: duobus
+oriens tunc recta spectat ad Capitolium.
+_Brut._--Singulus quisque det manum.
+_Cass._--Pactum jurejurando confirmemus.
+_Brut._--Nollem jurejurando. Si consensus hominum, si patientia
+rumpamus et quisque in lectum suum ignavum hinc se recipiat. Dein
+quasi sortito deperierit. Sed si hæc, quod affirmare audeo, satis
+audaciam cudant, quo stimulo ad ulciscendum, nisi causâ ipsâ,
+fœderati? Quo jurejurando; nisi quod probi cum probis consentimus,
+opus est; hominibus timidis, et cautis; senibus semimortuis,
+in pravam causam addicti, non fide digni sunt: sed ne nos incepti
+inquinemus, ut vel causam nostram, vel nos ipsos, qui eam acturi
+sanguinis qui per venas Romani cujusque fluit, adulterio quodam
+quivis nostrûm infirmaverit.
+_Cass._--Quid autem de Cicerone? Num tentandus est? Me judice,
+
+
+
+nostro bonam hominum opinionem coempturi sunt. Rumor ibit prudentiam
+gravitate tuta latebit.
+_Brut._--Ne in isto, precor, moremur; neque in concilium admittamus;
+
+
+
+
+Cæsari adeo dilectum, Cæsari superesse. Virum enim sagacem et
+quod ne eveniat, pereat Antonius simul cum Cæsare.
+_Brut._--Truculentiores videbimur, Caie Cassi, si, capite abscisso,
+Antonius enim nil nisi membrum Cæsaris est. Sacrificiorum, Caie, non
+contendimus; in animâ autem non inest sanguis. O, si possemus,
+Interficiendus est Cæsar! Eum tamen, ut in nullo metu, ita nec in
+apponamus, quam quasi canibus prædam dilaniemus: atque corda nostra
+præcipitaverint, acto facinore, eosdem illico increpare solent. Sic
+potius ultores quam sicarii audiemus. Quod ad M. Antonium, ne illum
+brachium, Cæsaris capite abscisso.
+_Cass._--Formido tamen: insitus enim ejus erga Cæsarem amor--
+_Brut._--Indignus est ut in eo moremur, Cassi. Si Cæsarem vere amat,
+propter Cæsarem moriatur: quod tamen vix ab eo expectandum est;
+
+habebit.
+_Brut._--Hora quota est?
+_Cass._--Clepsydra nonam indicat.
+_Treb._--Abeundum.
+_Cass._--Sed adhuc incertum est utrum Cæsar foris hodie iturus sit;
+phantasmata, somnia, prodigia, nunc magni æstimat. Fortasse hæc
+monita, eum a Capitolio hodie prohibebunt.
+_Dec._--Ne solicitus sis. Propositum, qualecunque habet, per me
+per specula, elephantos per fossas, leones per retia, homines denique
+affirmaverim mihi arridet, ipse tum quam maxime deceptus. Hoc mihi
+
+
+
+
+dicentem Cæsar reprehenderit: miror neminem vestrûm illum tentasse.
+_Brut._--Tu igitur, Metelli, domum rediens eum visas: me amat:
+
+pacti vero memores, nos Romanos demonstremus.
+_Brut._--Vultum festivum, mî boni, induamus, neque consimilem
+gestu constanti et indefesso agamus. Jam valete omnes.
+      [_Exeunt. Manet_ BRUTUS.
+Luci! mî puer! quid! alte dormis? nil refert: mellito roscidoque
+phantasmatum, quæ in hominum cerebro cura importuna informare solet,
+
+
+
+convenit ut te vix satis validam matutinis frigoribus objicias.
+_Por._--Nec magis tuæ. Non benigne, non amanter, Brute, e lecto meo
+et suspirans, brachiis involutis, perambulabas. Me, quæ causa esset
+fronti impresso, terram pede impatientius percutiebas. Quum
+indicabas; quod facere non morata sum, metuens ne nimiam intemperiem
+accidit, ut parum æquo animo esses. Verum! hoc, quodcunque est, te a
+quantum mentis, immutari posset, equidem, Brute, vix te agnoscerem. O
+
+
+reciperet.
+_Brut._--Ergo idipsum ago. Ad lectum, Portia mea.
+_Por._--Num Bruto ægrotanti convenit sic discincto ire, et matutini
+furtim subtrahere, ut malum noctis contactum petat, et gelidam
+quædam in præcordiis latet plaga, quæ, per gratiam meritumque
+tibi commendatissimam, per amorem tuum in me toties promissum; per
+genibus, obsecro atque obtestor, ut mihi, quæ pars animæ tuæ, vel
+hac nocte tecum collocuti: sex enim septemve, qui vel tenebris se
+
+
+Brute. Sed dic mihi quæ sit pacti conjugalis vis: quatenus valet:
+non omnis tua sim, sed sub certo limite et modo? ut nimirum mensæ,
+penetralibus, cordis tui locum habeam. Quod si nihil ultra in me
+
+atque intima, oh! intima prout sanguis qui in hoc cor mœstissimum
+
+eam tamen quam Brutus pernobilis sponsam duxit. Fœminam;
+tanto viro conjunctam, cæteris fœminis fortiorem putas? Consilia
+libenter datum, constantiæ pignus. An hoc passa silens, de mariti
+
+
+
+deinde interioris propositi mei consors et particeps eris: quæ
+interpretabor: Sed nunc abeas precor, quam citissime.
+      [_Exit_ PORTIA.
+LUCIUS _et_ LIGARIUS.
+Quid est, Luci?
+_Luc._--Ægrotans quidam adest qui tecum loqui vult.
+_Brut._--Caius Ligarius est, de quo Metellus mentionem fecit. Abi,
+
+
+Utinam te non ægrum esse.
+_Lig._--Non æger sum, si Brutus honestum aliquod suscepturus est.
+_Brut._--Tale quid suscepturus sum, Ligarie; modo sanæ essent aures
+
+meum abjicio. Anima Romæ! Progenies fortis, honestis patribus orta!
+Jam, te jubente, curram; in res inexpugnabiles contendam; immo ad
+
+
+
+ubi agendum, progrediemur.
+_Lig._--I præ; sequor; corde jam accenso, ut quamvis inscius agam.
+
+
+
+SCENA II.
+_Atrium in Ædibus CÆSARIANIS._
+_Tonitrua fulminaque._ CÆSAR _e lecto._
+_Cæs._--Neque cœlum, neque terra, hac nocte quiescit. Ter in somno
+intra?
+FAMULUS.
+_Fam._--Quid vis, Domine?
+_Cæs._--Ut sacrificia confestim fiant, inspectisque victimis, mihi
+
+
+
+
+licebit.
+_Cæs._--Cæsar prodibit. Quæ Cæsari minantur, nunquam nisi a tergo
+
+vero me perterrent. Præsto est qui, præter ea quæ ipsi vidimus
+mediâ viâ parturisse; hiâsse sepulcra, mortuos emisisse; turmas
+concurrere; sanguinem in Capitolium pluere; clangorem prælii medio
+plangere, et stridere. O Cæsar! hæc supra Naturæ modum sunt; hæc
+
+volunt? Cæsar nihilominus prodibit: hæc enim portenta universos,
+
+cœli ipsi conflagrant.
+_Cæs._--Timidi sæpius, fortes semel tantum, mortem subeunt. Equidem
+malum ineluctabile, suum sibi tempus habet.
+FAMULUS.
+Quid augures ergo?
+_Fam._--Te hodie prodire nolunt. Extis enim victimæ evulsis, cor
+
+sine corde esset, si hodie præ metu domi se teneret. Nil tale
+Quippe nos ambo catuli ejusdem leænæ sumus, parti eodem die; sed
+
+prodeas: timiditatem meam, si vis, non tuam, accuses. Marcus Antonius
+genibus, obsecro.
+_Cæs._--Ergo, Marcus Antonius me non valere dicat: ut tibi placeam,
+
+
+
+
+hodie venire nolle. Non posse, falsum esset, non audere, falsum
+
+
+late tuli, ut metuam canis quibusdam senibus verum eloqui? I, Deci,
+
+nuntiantem irrideant.
+_Cæs._--Stet pro ratione voluntas: non ibo: hoc Senatu satis sit.
+retinere. Causam prætendit, quod hac nocte in somno vidit statuam
+plures robustos, et quasi exultantes advenire, qui manus in isto
+malorum portenta: quare me ut domi maneam, flexis genibus, precata
+
+faustumque istud somnium affirmo: nempe statua tua, multis ex oribus
+prædicit--Romam ex te sanguinem novum hausuram; illustresque viros a
+expressuros esse. Calpurniæ somnium ita nos interpretari debere
+
+
+acceperis. Accipe ergo: Senatus decrevit diadema magno Cæsari, hoc
+fortasse animum mutabit. Præterea jocus et ludibrium esset, si quis
+somniaverit. Si Cæsar se absconderit, nonne Cæsarem formidolosum
+amor, audacior fortasse, me ut loquar cogit.
+_Cæs._--Quam vani metus tui, Calpurnia? Pudet me iis modo obsecutum.
+
+
+
+
+Casca. Caie Ligarie, Cæsar tibi non tam inimicus, quam febris ista
+
+
+
+
+tamen matutinus. Salve, Antoni.
+_Ant._--Salve, nobilissime Cæsar.
+_Cæs._--Festinent servi:--pudet me hujus moræ. Salve,
+loqui velim; ne tu mei obliviscaris, et mihi prope adsis, ne tui ego
+
+qui te amant me longius abfuisse optaverint.
+_Cæs._--Ineamus; vini pocula quædam in promtu sunt. Deinde,
+
+corde deplorat.
+
+
+
+
+Casca; Cinnam observa; Trebonio ne fidas; nota Metellum Cimbrum;
+Una in his omnibus mens, atque ea infensa Cæsari est. Si non
+Di boni te protegant.
+        ARTEMIDORUS.
+Hic Cæsarem prætereuntem expectabo, epistolamque meam, ut qui
+extra invidiæ morsum degere. Quod si legeris, Cæsar, fortasse
+
+SCENA IV.
+_Ejusdem viæ pars alia, prope_ BRUTI _domum._
+PORTIA, LUCIUS.
+_Por._--Hinc, puer, ad Senatum: ne respondeas; hinc quam citissime.
+
+
+dicere possim. O Constantia, adsis, adjutrix fias: molem, impedimenta
+viribus fœmina sum. Ah! quam difficile est fœminæ secreta non
+
+ultra? redeundum ad te; nihil ultra?
+_Por._--Hoc ultra, puer; referas qui sit aspectus domini tui: nam,
+proxime supplicatum accedant. Ah! quis iste strepitus? Ausculta,
+
+
+quasi rixantium, venit, vento delatus a Capitolio.
+_Luc._--Equidem, domina, nihil audio.
+ARTEMIDORUS.
+_Por._--Huc, mî bone; unde venis?
+_Art._--Domo meâ, domina.
+_Por._--Hora quota est?
+_Art._--Circiter tertiam, ni fallor, domina.
+_Por._--Cæsarne adhuc in Capitolium?
+_Art._--Non adhuc, domina. Ipse stationem quæro, unde eum istuc
+
+
+aurem det, obsecrabo ut sibi ipsi caveat.
+_Por._--Quid? novistine aliquod periculum ei impendere?
+_Art._--Nullum quod noverim, multum quod veritus sim. Valeas, domina.
+Prætorum, et de plebe supplicantium viro infirmiori gravis erit. In
+compellare possim.
+      [_Exit._
+_Por._--Domum redeundum est.--Hei mihi! Quam debile cor fœmineum! O
+puerum_) Nempe Brutus rogationem profert, cui Cæsar vix satis favet.
+festivi animi esse, et quid respondeat refer.
+      [_Exeunt._
+
+
+
+SCENA I.
+_Capitolium;_ SENATORUM _concessus. Turba circa aditus Capitolii._
+CASSIUS, DECIUS, METELLUS, TREBONIUS, CINNA, ANTONIUS, LEPIDUS,
+
+
+
+
+perlegere tibi placeat.
+_Art._--O Cæsar, meum prius. Cæsarem proprius tangit: meum prius,
+
+
+
+
+
+
+
+
+
+
+
+
+
+Brute? Si proditi sumus, vel Cassius vel Cæsar non hinc rediturus
+
+consiliis nihil. Risum in ore habet; neque Cæsar vultum mutat.
+_Cass._--Trebonius partes suas bene agit; ecce enim, Brute, ut M.
+
+
+Cæsari proferat.
+_Brut._--Jam prolaturus est. Sequamur ut eum sustineamus.
+_Cin._--Casca, tu primus manum tuam ----
+_Casc._--Jamne parati sumus?
+_Cæs._--Quænam igitur sint, quibus Cæsar Senatusque suus mederi
+
+sellam tuam cor humillimum affert.
+_Cæs._--Cimber, te præventum velim. Hi genuum flexus, hæc
+posset, ut legem semel decretam præscriptamque, puerorum more,
+temperatum, ut per quae stulti molliuntur, mellita verba, humiles
+dissolvi possit. Frater tuus, ex Senatusconsulto exulat. Si illius
+instar, ego, te veluti canem, pede repellam. Hoc pro certo habe,
+
+aurem suavior sonatura sit, ut ei fratrem meum ab exilio revocare
+
+Cimbro liberam redeundi licentiam jam concedere velis.
+_Cæs._--Quid, Brutus!
+_Cass._--Veniam, Cæsar, veniam oro. Cassius se vel ad pedes tuos
+
+possem precibus uti, precibus moveri possem. Ego autem constans sum,
+nullam inter sidera parem habet. Cœlum innumeris scintillis
+omnes, suus semper locus. Non aliter in terrarum orbe. Multi nimirum
+tamen inter omnes novi, qui inexpugnabilis recta usque progreditur;
+demonstro: Cimbrum exulare decrevi; Cimbrum exulare decerno.
+_Cin._--O Cæsar, ----
+_Cæs._--Hinc tu! Visne tollere Olympum?
+_Dec._--O magne Cæsar.
+_Cæs._--Annon et Brutus frustra supplex?
+_Casc._--Pro me loquantur manus ----
+      [CASCA CÆSAREM _collo ferit._--CÆSAR _lacertum ejus
+
+
+
+proclamemus.
+_Cass._--Quidam ad pulpita publica: proclament populo libertatem,
+
+nisi suas pœnas luit.
+_Casc._--In rostrum, Brute, ascendas.
+_Dec._--Et tu, Cassi.
+_Brut._--Ubinam Publius?
+_Cin._--Hic est, novâ hac audaciâ stupefactus.
+_Met._--Una omnes stemus, ne quis forte e Cæsarianis,--
+_Brut._--Nihil opus est;--Ne metuas, Publi; nihil in te volumus,
+
+tuam simul senectutem opprimat.
+_Brut._--Ita sit:--nemo propter hæc in discrimen veniat, nisi nos
+
+
+
+clamant, passim discurrunt, quasi jam adesset supremus mundi dies.
+_Brut._--Fata, quæ sit voluntas vestra jam experiri nobis in animo
+sint, in hoc laboramus.
+_Cass._--Quare, qui e vitâ viginti annos absciderit, tot annis
+
+Cæsarem benevoli, qui eum ab hoc temporis intervallo formidine pleno
+cubitum sanguine Cæsaris lavemus; gladios intingamus; deinde ad
+Libertatem, Manumissionem, uno ore omnes proclamemus.
+_Cass._--Inclinemur ergo; lavatio fiat. Quot inde sæculis inter
+scenam ducentur!
+_Brut._--Quoties in ludis Cæsar sanguinem profundet, qui jam in
+
+audibimus.
+_Dec._--Ne mora sit; prodeamus.
+_Cass._--Immo una omnes. Brutus viam ducat; nos, fortissimi Romanorum
+
+
+
+Antonius tibi dicere. Brutus nobilis, sapiens, fortis, honestus est;
+honorat Brutum; timuit, honoravit, amavit Cæsarem. Si Brutus Antonio
+mortem oppetere meruerit, Antonius non tantum Cæsarem mortuum,
+quicunque casus eventuri sint, quam fidelissime se socium additurus.
+
+semper novi. Huc, si libuerit, securus adveniat, ut causas facti
+
+
+
+timori meo eventus responsurus est.
+ANTONIUS.
+_Brut._--Ecce Antonium. ---- Salve, M. Antoni.
+_Ant._--O magne Cæsar, itane despectus jaces? Itane omnes victoriæ
+contrahuntur?--Jamque vale.--Romani, quid ultra facturi sitis nescio;
+nulla hora, quam quâ Cæsar periit, æque opportuna est; nulla tela
+ditati. Quare obsecro vos, si quid in me meditamini, nunc, dum
+convertatis. Si mille annos victurus sum, nunquam morti aptior ero;
+meum; nullus mortis modus, quam à vobis temporum nostrorum
+
+sanguinolenti propter has cruore infectas manus, et hoc præsens
+cruentatum cernis; non corda nostra: pia sunt ea corda, et pietas
+expellit) ipsa hoc in Cæsarem fecit. In te autem, M. Antoni, enses
+fratrem, summâ benevolentiâ et honore amplectuntur.
+_Cass._--Suffragium tuum in muneribus conferendis singulo cuique
+
+perturbatam sedaverimus; deinde, quare ego Cæsarem, quamvis
+reddam.
+_Ant._--Vos prudenter egisse nullus dubito. Det mihi quisque vestrûm
+Cassi;--tuam, Deci Brute;--mox tuam, Metelle;--tuam, Cinna;--tuam, mi
+tamen. Factio nobilis! Eheu! quid dicam? mea enim fama jam eo usquo
+habendus sim. Nihil verius quam quod te amabam, Cæsar: quare, O
+nonne illud injuriosius quam ipsa cædes videbitur, Antonium tuum
+cruentatis hostium tuorum manibus. Quod si in me tot oculi, quot in
+hoc melius me deceret quam sic amice cum inimicis tuis pacisci.
+occidisti. Atque hîc spoliis tuis ornati, sanguine tuo fucati,
+saltu isto dominus. O quam, cervi instar, a principibus pluribus
+
+
+inimicissimi Cæsaris non negaturi sunt, quanto magis id amicissimus
+
+nobiscum icturus sis, hoc scire velim. Utrum inter amicos numerandus
+
+petebam; Cæsaris autem aspectu paulisper deflectebar. Vobis omnibus
+in quibus præsertim, Cæsar periculosus esset, vos mihi reddatis.
+_Brut._--Quod si non periculosus, immane profecto hoc spectaculum
+vim habere, ut, etiamsi Cæsaris filius esses, tibi satisfacturæ
+
+efferre, et ex rostris, secundum morem, in exequiis loqui.
+_Brut._--Licebit, M. Antoni.
+_Cass._--Brute, pauca tecum. Quid agis? ne concedas Antonio ut in
+fortasse inflammaturus sit?
+_Brut._--Provisum erit, Cassi;--nempe ego primus in rostra ibo,
+concessu nostro et licentiâ orationem habiturum; nos justa omnia
+plus apud populum profutura, quam in discrimen adductura credo.
+_Cass._--Dubito quid ex his eventurum sit; mihi non placent.
+_Brut._--Age, M. Antoni, Cæsaris cadaver tollas; hoc pacto scilicet,
+laudes; idque permissu nostro te facere dicas: quod si nolis his
+te ex iisdem rostris, quibus ego, concionari volo.
+_Ant._--Esto: nihil amplius peto.
+_Brut._--Cadaver igitur componas, et venias.
+      [_Exeunt. Manet_ ANTONIUS.
+_Ant._--O lutea et cruenta moles, ne mihi succenseas, quod in hos
+relliquiae viri, cujus parem sæculorum ordo nunquam tulit. Pereat,
+super hæc vulnera tua, quæ muta tanquam ora, rubris hiant labris,
+
+bellique civilis rabies Italiæ omni incumbent: strages exitiumque
+species, ut, infantibus coram oculis jugulatis, matres ipsæ
+suffocata erit; Cæsarisque Umbra--cui comes ibit Ate, tartareis
+Imperatoris voce cladem proclamabit, Bellonæque canes in prædam
+cadavera supra terras infandum putuerint.
+FAMULUS.
+_Ant._--Unus, ut puto, ex Octavianis es?
+_Fam._--Ita est, Antoni.
+_Ant._--Cæsar scripsit ut Octavius Romam veniret.
+_Fam._--Litteras accepit; jam in viâ est: me præmisit ut dicam,
+
+gignit; ut video oculos tuos in fletum solutos, lacrymae et meis
+
+
+referas. Romam lacrymis plenam, periculosamque; Octavio vix satis
+paullisper maneas, donec cadaver in Forum asportaverim, atque ibi
+censeat tentaverim. Octavium juvenem secundum rei eventum præmonere
+
+
+SCENA II.
+_Forum._
+BRUTUS, CASSIUS, CIVIUM _turba._
+_Cives._--Nobis satisfactum volumus: hoc agite; huic operam date.
+_Brut._--Me igitur sequamini, amici, ut audiatis. Tu, Cassi, in
+mecum maneant; qui Cassium, eum comitentur: nos qua de causâ Cæsar
+
+
+    [_Exit_ CASSIUS _cum parte_ CIVIUM.
+BRUTUS _rostrum ascendit_.
+_Civ. 3._--Nobilis Brutus in rostro est: favete linguis.
+_Brut._--Usque ad finem me patienter audiatis peto. Romani, cives,
+causâ mihi credite, et ut credatis me pro honesto habete: pro
+præ cæteris ex hoc cœtu Cæsar carus erat, illi dico Cæsarem
+Cæsarem insurrexerit, respondeo, Non quod Cæsarem minus amaret, sed
+mortuove Cæsare, vos omnes vivere liberos? Quod me Cæsar diligebat,
+ambitiosus, occidi: En! propter amorem, lacrymae; propter fortunam,
+vestrûm adeo turpis est, ut servus esse malit? Si quis; dicat--ille
+curet? Si quis; dicat--ille injuriam a me passus est. Quis adeo
+est. Respondeatis; responsum expecto.
+_Cives._--Nemo omnium, Brute, nemo.
+_Brut._--Nemo igitur injuriam a me passus est. Ego nihil gravius in
+mortis ejus in tabulis Capitolinis inscriptæ sunt: gloriâ ejus
+exaggeratis.
+ANTONIUS, _aliique cum cadavere._
+Ecce ejus cadaver; Marcumque Antonium qui funus facit: ille facti
+quidem jam vestrûm omnium est. Denique, hoc vobis promitto, me eodem
+in me ipsum, si poscat Patria, usurum.
+_Cives._--Vivas, Brute, vivas, diu vivas.
+_Civ. 1._--Domum triumphantis more eum deducamus.
+_Civ. 2._--Statuam ei, sicut avis ejus, ponamus.
+_Civ. 3._--Cæsaris locum sibi habeat.
+_Civ. 4._--Quodcunque in Cæsare coronam meruerit, id jam in Bruto
+
+
+
+
+
+hic cum Antonio manete: Cæsari, quodcunque mortuo decet, permissu
+abeat, donec Antonius finem fecerit.
+      [_Exit_ BRUTUS.
+_Civ. 1._--Maneamus, ut M. Antonium audiamus.
+_Civ. 2._--In rostrum eat: eum audire placet:--ascendas, nobilis
+
+
+
+
+
+
+
+
+
+
+vestras: adsum ut efferam Cæsarem, non ut laudem. Quæ male homines
+abscondi solent. Hæc Cæsaris sors esto. Nobilis noster Brutus
+fateor: gravissimam certe Cæsar pœnam luit. Hic, concedentibus
+exequiis pauca loquar. Ille mihi amicus erat; justus et fidelis mihi:
+captos Cæsar Romam reduxit; quibus redemtis, æs in publicum
+Cæsar: ambitiosi, ut opinor, durior materies est: ambitiosum tamen
+Lupercalibus regiam coronam Cæsari ter obtulisse, quam ille ter
+Brutus profecto honestus est. Non, ut Bruto contradicam, loquor, sed
+amabatis: quid vetat quin nunc ploretis? O Sanitas, in bestias
+feretro isto cum Cæsare est: dum redierit, tacendum.
+_Civ. 1._--Hujus verba, ut opinor, non parvam in se vim habent.
+_Civ. 2._--Si vis rem recte perspicere, injuriosissime isti in
+
+successurus sit.
+_Civ. 4._--Coronam repudiavit: quid vultis? certe non ambitiosus erat.
+_Civ. 1._--Quod si ita est, sunt qui graves pœnas luituri sunt.
+_Civ. 2._--Aspicite Antonii nostri faciem; ut lacrymis deformatur!
+_Civ. 3._--Nemo Romanorum Antonio honestior.
+_Civ. 4._--Favete linguis, iterum loquitur.
+_Ant._--Heri, dictum Cæsaris universo orbi terrarum prævalebat:
+mî amici! si animos vestros ad iram tumultumque instigare vellem,
+esse satis scitis. Non ita agam: mallem potius in mortuum istum,
+honestos viros. Sed manu teneo chartam, symbolo Cæsaris impressam;
+hoc semel explicatum habuerint, (quod, pace vestrâ, non sum ego
+sacroque ejus sanguine mappas imbuerent; immo etiam unum ex capite
+pretiosissimo legarent.
+_Civ. 4._--Audiamus testamentum: lege, M. Antoni, lege.
+_Omnes._--Testamentum, testamentum! Cæsaris testamentum audire nobis
+
+dicere quantus esset in vos Cæsaris amor. Non ligna--non saxa
+vos ad incendia et insaniam instigaret. Vos Cæsaris hæredes esse
+
+testamentum.
+_Ant._--Date veniam, date paullulum moræ. Fando talia ultra metam
+affecerim, quorum sicæ Cæsarem percusserunt: immo multum vereor.
+_Civ. 1._--Proditores isti: non honesti.
+_Civ. 2._--Testamentum! testamentum!
+_Civ. 3._--Scelerati sunt; sicarii.
+_Ant._--Mene igitur cogetis ut legam! Primo tamen circumstetis
+Descendamne e rostro? licetne?
+_Omnes._--Descendas.
+_Civ. 2._--Licentiam damus.
+_Civ. 3._--A feretro et cadavere paullulum distandum est.
+_Civ. 4._--Date locum Antonio, nobilissimo Antonio.
+_Ant._--Ne me urgeatis; date locum, precor.
+_Omnes._--Date locum, date locum.
+_Ant._--Si lacrymae vobis insunt, date lacrymis viam. Agnoscitis
+æstivo quodam vespere, in prætorio; quo die Nervios debellârat.
+invidus Casca. Hac autem bene dilectus Brutus percussit: abstractoque
+est; quasi foris properaret, ut sciret num Brutus esset qui tam
+Testor vos, immortales Dii, quantopere eum diligebat Cæsar! Proh
+vidit, qui proditorum tela sustinebat, ingrato hujus animo succubuit.
+Pompeî, quæ tota, dum cædes ageretur, sanguinem exsudabat, magnus
+ibi nos omnes simul procubuimus, triumphante super nos Proditione
+
+gratæ lacrymæ! pia corda! Quid! fletisne, cum non nisi vestem
+ruinam, proditorum opus!
+_Civ. 1._--O miserrimum spectaculum!
+_Civ. 2._--Eheu, nobilis Cæsar!
+_Civ. 3._--O diem funestissimum!
+_Civ. 4._--O proditores, O sicarii!
+_Civ. 1._--O cruentissimum facinus!
+_Civ. 2._--Ultionem poscimus, ultionem:
+supersit.
+_Ant._--Amici mei.--
+_Civ. 1._--Tacete, audite nobilem Antonium.
+_Civ. 2._--Audibimus; sequemur; cum Antonio moriemur.
+_Ant._--Mî boni, mî amici, procul absit ut verba mea vos in tantum
+utique honesti sunt: quænam fuerint suæ cuique simultates, quæ ut
+honesti: et vobis procul dubio satisfacturi sunt.
+Non adsum, amici, ut corda vestra surripiam; non ego sicut Brutus,
+amantissimus; quod bene norunt qui mihi hanc publice loquendi
+verba, neque dignitas, neque actio, neque vox, neque elocutio, ut
+directo loqui. Vobis quæ vobismetipsis nota sunt refero; Cæsaris
+jubeo. Quod si ego Brutus essem--Brutus Antonius--staret hîc
+Cæsaris vulneribus linguam insereret, quæ ipsos Romæ lapides in
+
+
+
+
+
+
+quâ de causâ Cæsar tam bene de vobis meruerit? Quid! ignoratisne?
+
+
+cuique civi Romano septuaginta drachmas dat.
+Civ. 2.--O Cæsarem nobilissimum! ut cædes ejus primum nobis
+
+
+
+
+Tiberim, in usum et recreationem publicam, vobis hæredibusque
+vestrum. Quando ullum invenietis parem?
+_Cives._--Nunquam, nunquam:--hinc, hinc vos abripite, Quirites.
+domos incendemus. Corpus tollite.
+_Civ. 2._--Ite, ferte ignem.
+_Civ. 3._--Scamna evellite.
+_Civ. 4._--Sedilia, fenestras, quidquid ad manum venit.
+      [_Exeunt_ CIVES, _cadavere sublato._
+_Ant._--Factum est: currat opus. Ate, carceribus effusa es!--jam
+
+
+
+
+
+videtur: eo animo ut nobis quodcunque velimus largiatur.
+_Fam._--Audivi ex Octavio Brutum Cassiumque per urbis portas, equis
+
+est. Duc me ad Octavium.
+
+
+
+
+_Cin._--Hac nocte somniabam me cum Cæsare cœnare; mens mea
+quodammodo invitus.
+CIVES.
+_Civ. 1._--Quid nomen tuum?
+_Civ. 2._--Quorsum viam facis?
+_Civ. 3._--Ubi habitas?
+_Civ. 4._--Maritus, an cœlebs?
+_Civ. 2._--Statim cuique nostrum respondeas--
+_Civ. 1._--Et brevissime--
+_Civ. 4._--Et prudentissime--
+_Civ. 3._--Et verissime--caveas ut verissime.
+_Cin._--Quid nomen meum? quorsum eo? ubi habito? maritus, an cœlebs?
+Prudentissime igitur, non sum maritus.
+_Civ. 2._--Quasi dicas maritos omnes stultos esse;--hujus ergo
+
+
+
+
+
+
+
+
+
+
+
+discerpendus est.
+_Civ. 2._--Cinna nomen est; satis est; nomine ex corde evulso,
+
+Hinc in Bruti, in Cassii, domum; utramque, omnes, incendite. Alii
+
+
+
+ACTUS IV.
+
+
+
+
+suum letale.
+_Oct._--Insuper his, et frater tuus, Lepide: aisne?
+_Lep._--Aio.
+_Oct._--Stigma ad nomen ejus, Antoni.
+_Lep._--Hac conditione, quod et Publio, sororis tuæ filio, Antoni,
+
+Cæsaris domum eas, et tecum testamentum referas. Quomodo aliquid ex
+
+
+
+fungatur. Decetne, putas, Octavi, istum, terrarum orbe in tres partes
+
+nostro nomina inscribenda essent ex istius suffragio inscribi tu
+
+quos in istum cumulamus, (eo consilio ut invidiæ onus vice nostrî
+gemens sudansque; ductus actusve quocunque tu et ego viam
+placet, deductis, onus a tergo amovebitur; et eum veluti asinum,
+aperto quærat.
+_Oct._--Fac quod voles: miles tamen fortis et expertus est.
+_Ant._--Hoc et equi mei est, Octavi; cui in idipsum largiri pabulum
+stare, doceo; corporis ejus motibus arbitrio meo conformatis. Ide
+gubernandus, agendus. Cerebrum vel omnino nullum, vel sterile, habet.
+obsoletis abjectisque ab inventoribus, pro novis et sibimet ipsi
+Nunc autem de gravissimis rebus consulendum, Octavi. Brutus
+Fœdere igitur inter nosmet ipsos icto, conciliandi amici, copiæque
+insuper quomodo operta discrimina magis pateant, aperta defendantur.
+_Oct._--Hoc agamus, Antoni; nos enim jam tanquam in saltu sumus,
+nobis vultu arrident, corde mala quamplurima comminiscantur.
+      [_Exeunt._
+
+
+LUCILIUS, LUCIUS, _Milites: ex illâ,_ TITINIUS, PINDARUS.
+_Brut._--Consistite, milites.
+_Luc._--Date signum: consistite.
+_Brut._--Quid habes, Lucili? num venit Cassius?
+_Lucil._--Immo jam venit: Pindarus tibi nomine ejus salutem dat.
+      [PINDARUS BRUTO _litteras reddit._
+_Brut._--Amici litteræ sunt.--Dominus tuus, Pindare, vel per
+quædam facta infecta vellem. Quodsi me jam conventurus est, omnia in
+
+benevolum honestumque tibi comprobaturum esse.
+_Brut._--Nullus dubito. Jam pauca tecum, Lucili: dic mihi, quonam
+
+more, et benigno, neque eâ verborum facilitate quibus olim utebatur.
+_Brut._--Amicum modo ardentem, jam frigescentem, depingis.
+ut ad coactas quasdam blanditias confugiat. Vera simplexque fides
+primo cursu superbiunt frenaque indignantur: deinde, quum ad calcar
+Exercitusne ejus in itinere est?
+_Lucil._--Hac nocte Sardibus castra ponunt; peditum pars major,
+
+
+
+
+
+
+
+
+
+
+injuriâ afficere; quanto minus fratrem?
+_Cass._--Gravitas ista tua, Brute, injurias velat; quando autem
+
+urgeas: indolem tuam satis novi: ne coram militibus nostris, quos
+Quare, hisce paullulum remotis, tu, Cassi, mecum in tentorium meum:
+
+
+consiliantibus nobis. Lucius et Titinius aditum custodiant.
+
+SCENA III.
+BRUTI _Tentorium. Intervallo quodam_ LUCIUS _et_ TITINIUS.
+BRUTUS, CASSIUS.
+_Cass._--Quod in me injuriose egisti, Brute, vel ex hoc patet: Lucium
+vocatum, condemnâsti; litterasque meas, eum, quod mihi notus esset,
+
+advocatum feceris.
+_Cass._--Hisce temporibus parum convenit singulum quodvis delictum
+
+quandam et prurientem manum; aiunt te munera tua indignis auro
+
+Deos omnes, jam supremum locutus esses.
+_Brut._--Quam corruptelam Cassii nomen decoram facit; idcirco Pœna
+
+
+Justitiâ--magnus Julius occisus est? Quis inter nos tam vilis ut,
+est,--qui hunc primum orbis terrarum virum, non ut latronem ipsum,
+nostras turpissimo lucro contaminabimus? ingensque gloriæ nostræ
+morem--contineri possit? Mallem me canem esse, et latrare lunam quam
+
+me insectari. Miles ego plus quam tu belli expertus; aptior qui de
+
+
+
+
+fiam: cura vitam tuam: ne me ulterius tentes.
+_Brut._--Abi, vir levis!
+_Cass._--Quid est?--certe male audivi!
+_Brut._--Audi tu; dicam enim. Sperasne iræ puerili tuæ me locum
+
+
+superbum tuum cor dissiliat. I, servis tuis quantum irasci potes
+conciliandus? Mene decet summisso vultu ineptos furores tuos
+ipse, etiamsi exhauriendo rumparis. Ex hoc die, dico tibi, Cassi, te,
+
+
+quod si probaveris, lætabor ego: quod meum est, gaudeo a
+
+præstantiorem, dixi: præstantioremne dicebam?
+_Brut._--Utrum horum mavis.
+_Cass._--Cæsar me sic provocare non ausus esset.
+_Brut._--Tace, tace; tu non ausus esses eum sic tentasse.
+_Cass._--Mene non ausum?
+_Brut._--Dico, non.
+_Cass._--Mene non ausum?
+_Brut._--Non, per Deos, non ausus esses.
+_Cass._--Brute, ne amori meo nimium fidas: vereor ne faciam cujus me
+
+valent; eâ enim virtute me totum involvo, ut, tanquam vana aura,
+tabellarios meos, petebam: quippe ut nummos ipse turpiter aliunde
+transmutari, sanguinemque in drachmas guttatim, stillari quam e duris
+extorqueri. Aurum, a te inquam, per tabellarios meos, petebam; in
+ne Caio Cassio sic respondissem? Si quando Marcus Brutus adeo avarus
+ipsa horâ, Dî, omni fulmine vestro Brutum comminuatis!
+_Cass._--Ego non negabam.
+_Brut._--Negabas, aio.
+_Cass._--Non ego:--stultus iste qui responsum meum retulit. Brutus
+meas exaggerat.
+_Brut._--Invitus loquor, tuis in meipsum injuriis coactus.
+_Cass._--Me non amas.
+_Brut._--Culpas quidem tuas non amo.
+_Cass._--Amici oculus culpas tantulas notare nollet.
+_Brut._--Nollet adulatoris oculus, etiamsi Olympum superarent.
+_Cass._--Veni, Antoni; veni, juvenis Octavi; vosmet de Cassio solo
+fratre lacessitur: servus uti reprehenditur: culpâ qualibet notatâ,
+opprobrium objici possit. Eheu! animam meam lacrymando exhaustam
+Pluti carius, auro pretiosius: si Romanus es, cor illud exscindas:
+Cæsarem; te Cæsarem enim, etiam quum maxime aversabaris, plusquam
+
+me licebit. Fac quodcunque velis; injuriosus contumeliosusque sis;
+silex ignem, gerit; percussus scintillam in breve ostendit, et
+
+quando dolor et male temperatus sanguis eum irritaverint?
+_Brut._--Male et ego temperatus, quum ista dicerem.
+_Cass._--Tantumne concedis? Da manum.
+_Brut._--Immo, et cor simul.
+_Cass._--O Brute! ----
+_Brut._--Quid est, Cassi?
+_Cass._--Nonne satis amoris in me habes, ut patiaris si quando
+
+ille, matrem tuam increpitantem audire putans, tibi locum dabit.
+
+cui alios interesse melius erit.
+_Luc._--Non licet.
+_Poet._--Mors sola me prohibebit.
+POETA.
+_Cass._--Quid vult strepitus iste? quid nobiscum tibi?
+_Poet._--Proh pudor! O quid erit? Dux a duce magnus amandus.
+
+
+
+
+ineptissimis cum bello? abeat statim.
+_Cass._--Abi, quisquis es; confestim abi.
+      [_Exit_ POETA.
+LUCILIUS, TITINIUS.
+_Brut._--Lucili, Titinique, mandate centurionibus ut in hanc noctem
+
+[_Exeunt_ LUCILIUS _et_ TITINIUS.
+_Brut._--Luci, vinum affer.
+_Cass._--Non novi te tantum moveri posse.
+_Brut._--O Cassi, plurimus dolor cor meum ægrum facit.
+_Cass._--Quid autem--Philosphia tua nihili est, si quæ indies
+
+
+
+
+
+
+
+Antonio in tantum roboris creverit, (nempe hoc simul accepimus)
+
+
+
+
+
+quid inter nos non satis amanter intercesserit, id omne sepultum volo.
+_Cass._--Tibi propinanti idem sitit cor meum. Poculum corona, Luci:
+
+
+sedeamus, et quid in his necessitatibus agendum sit, consilium
+
+
+intelligo Octavium juvenem et Marcum Antonium cum magno exercitu
+
+
+
+et majestatis condemnatos sustulerunt.
+_Brut._--Hac parte meæ vix consentiunt; quippe Senatores proscriptos
+
+
+epistolas, Brute domine, ab uxore tuâ?
+_Brut._--Nullas, Messala.
+_Mess._--Nihilne habent de illâ litteræ tuæ?
+_Brut._--Nihil, Messala.
+_Mess._--Mirum, ut mihi videtur.
+_Brut._--Sed quid rogas? tune aliquid de illâ?
+_Mess._--Non ego, domine.
+_Brut._--Romanus es, Messala; mihi verum dicas.
+_Mess._--Romanus es, Brute; quod dicam feras. Illa procul dubio
+
+aliquando morituram continuo meditatus, mortuam patienter fero.
+_Mess._--Ita a magnis mala magna sustinenda sunt.
+_Cass._--Equidem, prout tu, quid in hac re philosophum decet edoctus
+sustinuisset.
+_Brut._--De mortuis satis: jam de vivis. Quid censes? an ad Philippos
+
+
+
+Sic enim opes suas consumet, milites defatigabit, suo ipsius
+indiesque et ad propulsandum et ad agendum instructiores.
+_Brut._--Argumenta tua gravia esse fateor; hæc tamen, ut puto,
+nos affecti videntur, quippe qui commeatus inviti suppeditaverint.
+amplifactus reparatusque, animosior progredietur: quibus omnibus eum
+tenebimus.
+_Cass._--Mî frater, verbum velim ----
+_Brut._--Pace tuâ--insuper notandum est, nos omne quod nostrarum
+rem nostram jam quasi maturam: hostem in diem crescere; nobis, in
+Quippe in rebus humanis, ut in mari, inest æstus: cui si, sursum
+refluenti, inter vada et angustias nunquam non navigandum erit. Nos
+fiat jactura.
+_Cass._--Eamus ergo: ad Philippos cum hoste congediamur.
+_Brut._--Nox intempesta nobis colloquentibus obrepsit. Necessitas
+
+
+
+
+Cassi! bene dormiatis omnes.
+_Cass._--O carissime frater! male inita est hæc nox: ne in futurum
+
+
+
+
+
+
+
+
+
+
+vigilâsti. Claudium voca, et si quis alius prope sit, ut in tentorio
+
+
+
+
+opus erit ut ad Cassium nostrum mittam.
+_Var._--Si placet, vigilabimus, ut prompti simus.
+_Brut._--Non ita; cubetis, precor: vos fortasse non requiram. Ecce,
+[_Cubant_ SERVI.
+_Luc._--Certus eram, domine, te istum non im meam manum commisisse.
+_Brut._--Veniam peto, mî puer; vix satis memor sum. Potesne graves
+dicas?
+_Luc._--Immo, si placet, domine.
+_Brut._--Placet, mî puer; importunior sum; te tamen nunquam non
+
+
+poscit.
+_Luc._--Jam ex somno sum, domine.
+_Brut._--Bene est; in somnum mox redibis: non te morabor diu. Si
+
+
+tangis, in te meditantem melos? dormias, mî puer; non ita male in te
+capiam. Dormias, mî puer.
+Jam ad librum meum:--nonne qua parte legebam obversa pagina est?
+
+
+oculi mei informe hoc spectrum fingunt? Jam me invadit. Speciesne
+sanguinem meum congelas, et crines stare facis? Dic mihi qui sis.
+_Umb._--Genius malus tuus, Brute.
+_Brut._--Quare ades?
+_Umb._--Ut moneam te Philippis me visurum.
+_Brut._--Bene est; ergo te iterum videbo?
+_Umb._--Scilicet--Philippis.
+      [_Evanescit Umbra._
+_Brut._--Esto: te Philippis videbo. Quid! statim ut in me redeo,
+Lucius! Varro! Claudius! Expergiscamini! Claudius!
+_Luc._--Chordæ discordes, domine.
+_Brut._--Se adhuc citharam pulsare putat. Expergiscere, Lucius.
+_Luc._--Quid est, domine?
+_Brut._--Somniabasne, Lucius, qui clamitares tantum?
+_Luc._--Me clamitâsse non novi.
+_Brut._--Clamitabas tamen. Videbasne aliquid?
+_Luc._--Nihil, domine.
+_Brut._--Iterum dormias.--Heus tu! Claudius! expergiscere.
+_Var._--Domine.
+_Claud._--Domine.
+_Brut._--Quare in somno tantum clamabatis?
+_Var., Claud._--Clamabamusne nos, domine?
+_Brut._--Certe: videbatisne aliquid?
+_Var._--Equidem nihil, domine.
+_Claud._--Nihil ego.
+_Brut._--Ite, salutate Cassium fratrem meum: ut castra primo mane
+
+
+
+ACTUS V.
+
+
+
+
+descensurum; sed colles et loca edita obtenturum. Quod aliter se
+ultro provocantes Philippis manus conserere jubent.
+_Ant._--Vah! cum intimo eorum corde versor: consilia non me latent:
+ostentatione quadam descendunt; nobis opinionem virtutis insinuantes:
+
+
+vexillo ad pugnam jam proposito: statim confligendum erit.
+_Ant._--Octavi, in plano campo legiones tuas presso pede ad sinistram
+
+
+
+
+_aliique._
+_Brut._--Stant loco, et verba volunt.
+_Cass._--Consistant milites, Titini: nobis procedendum est, ut verba
+
+
+milites; duces colloqui volunt.
+_Oct._--Exspectate signum.
+_Brut._--Priusne verba, Quirites?
+_Oct._--Non quod nobis, sicut vobis, verba placeant magis.
+_Brut._--Et tamen bon verba verberibus malis anteferenda, Octavi.
+_Ant._--Attamen tu, Brute, cum verberibus malis bona verba conjugis.
+Cæsar, bene valeas."
+_Cass._--Quæ vis in verberibus insit tuâ manu datis, Antoni, adhuc
+faciunt.
+_Ant._--Non aculeis tamen.
+_Brut._--Immo, aculeis et stridore simul. Apum enim morem imitaris,
+
+Cæsaris inter se colliderentur. Vestra erant tum simiarum sannitus,
+impressis: hæc inter execrandus iste Casca, vilis catuli instar, a
+
+jactare hodie habuisset, si mihi auscultasses.
+_Oct._--Age, age, ad rem: si disputando sudamus, probando, sanguis ex
+rediturus est? Haud prius, quam, aut tribus istis et viginti Cæsaris
+gladiis succubuerit.
+_Brut._--Nullos per proditores, Cæsar, moriturus es, nisi per quos
+
+
+mors honestior.
+_Cass._--Ecce puerum iracundiorem, cum mimo quodam et comissatore
+
+
+provocamus: hoc ipso die, si vultis; si non, statim ut vobis satis
+
+
+procella; jacta alea est.
+_Brut._--Heus tu, Lucili! verbum tecum.
+_Lucil._--Adsum, domine.
+      [_Seorsim loquuntur._
+_Cass._--Messala,--
+_Mess._--Quid vult dux meus?
+_Cass._--Hic meus natalis dies, Messala; hoc die Cassius natus est.
+libertatem nostram in uno prœlio invitum periclitari. Novisti me
+portentisque partim ut credam adducor. Proficiscentibus enim nobis ex
+ex ipsis militum manibus carnem devorabant; nos autem usque ad
+cornices, accipitresque nos supervolant, et, ut qui mox prædæ
+palliumque funebre, exercitus noster jacet, veluti in mortem
+
+
+omnia discrimina parato.
+_Brut._--Esto, Lucili.
+_Cass._--Brute nobilissime, Di nobis hodie fausti sint, ut, partâ
+fere incertæ sunt, pessimo providendum est. Si hoc prœlio vincemur,
+instituisti?
+_Brut._--Scilicet secundum istam philosophiæ legem, quæ jussit ut
+puto, nescio qua ratione, timidi et turpis esse, futuri metu, vitæ
+Deorum--qualescunque sint qui mortales regunt--voluntatem expectem.
+_Cass._--Ergo contentus eris, si hodie vincemur, per Romæ vicos
+
+putes unquam in vinculis Romam rediturum. Brutus animosior quam qui
+institutum complendum est. Dabiturne nobis post hunc diem una esse
+æternumque vale, Cassi. Cras, si una erimus, lætabimur; si non,
+
+lætabimur; si non, optime profecto erit ita nos dixisse "vale."
+_Brut._--Eia age; ad rem. O! qui hujusce diei exitum præsentire
+luce erit. Ohe! ad pugnam!
+      [_Exeunt._
+
+
+
+
+alterâ campi parte dispositis quam citissime feras.      [_Strepitus
+
+impetu profligari posse. Da fræna, Messala, da fræna; nostri statim
+
+SCENA III.
+_Campi pars altera. Strepitus pugnæ._
+CASSIUS, TITINIUS.
+_Cass._--Eheu! ecce, ecce, Titini, turpissimi isti diffugiunt! Meis
+occidi, aquilamque ex manibus eripui.
+_Titin._--O Cassi, Brutus nimis propere signum dedit; qui, cum
+spoliare milites: nos ab Antonio interea concludimur.
+PINDARUS.
+_Pind._--Abi, domine, in longius abi. Castra habet M. Antonius. Ocyus
+
+ignibus confusa--nostrane sunt?
+Titin.--Nostra, domine.
+_Cass._--Si me amas, Titini, in equum meum insilias; pressisque
+revertarisque ut sciam amici, an hostes sint.
+Titin.--Dicto citius, domine.      [_Exit._
+_Cass._--Tu, Pindare, in collem istum, altius: naturâ hebetiores
+refer.      [_Exit_ PINDARUS.
+Hoc die natus sum: tempus in se redit. Quæ hora initium, eadem finem
+
+
+
+assequuntur tamen: jam, jam assequuntur; O Titinium!--pars equis
+conclamant.      [_Clamor._
+_Cass._--Descendas; nihil ulterius visum velim. O me ignavissimum,
+
+
+quodcunque olim a me jussum foret, te pro virili suscepturum. Jam
+cape: eo Cæsaris latus a me perfossum est: eo pectus meum tu
+nunc obvelata est, in me cuspidem converte. Jam ultus es, O Cæsar,
+
+
+hinc Pindarus exul ibit, ubi nemini Romanorum unquam obvius erit.
+
+
+ab Antonio, profligatus est.
+_Tit._--Cassio nostro hoc magno solatio erit.
+_Mess._--Ubinam illum relinquebas?
+_Tit._--In hoc colle, dolore gravatum, cum Pindaro suo.
+_Mess._--Nonne ille est qui ibi humi jacet?
+_Tit._--Jacet, ut qui mortuus. O cor meum!
+_Mess._--Nonne ille est?
+_Tit._--Nequaquam, Messala. Fuit Cassius; non est. O sol, qui
+ipsius sanguine occasum habet. Sol Romæ occidit! Noster occidit
+actum est. Desperatâ salute meâ, mortem sibi conscivit.
+_Mess._--Fortunâ nimis cito desperatâ, jacet. O infelix Error,
+vana pro veris commendare. Error, conceptu facilis, nunquam ad partum
+
+
+eo, aures ejus verbis meis trajecturus, tela veneno tincta, Bruti
+
+
+
+tuos conveni, qui capiti meo hanc victricem coronam imposuere, ut
+male interpretatus! Etiam nunc tamen coronam fronte geras; tibi enim
+adsis, ut videas quanti ego Caium Cassium æstimaverim. Dii veniam
+
+
+VOLUMNIUS, LUCILIUS.
+_Brut._--Ubinam, ubinam, Messala, jacet corpus?
+_Mess._--Ibi jacet; Et juxta Titinius qui casum plorat.
+_Brut._--Titinius ipse supinus jacet.
+_Cato._--Occisus est.
+_Brut._--O Juli Cæsar, adhuc viges. Tua terras pervagatur Umbra, et
+
+
+
+Ultime Romanorum, valeas. Roma nunquam filium tui similem parere
+nunc dare licet. Tempus inveniam, tempus inveniam, Cassi. Agamus
+factis, militum animi graventur. Age, Lucili; age, Cato; ad pugnam
+fortunam, Romani, hoc ipso die iterum tentabimus.
+      [_Exeunt._
+
+
+
+BRUTUS, CATO, LUCILIUS, _cum aliis._
+_Brut._--O mei, ne cedatis; etiamnum contra hostem stetis.
+_Cato._--Quis adeo infamis ut recuset? Ohe quis mecum? Per campum
+inimicum, Patriæ amicum. Ecce me, Marci Catonis filium; ohe!
+      [_In hostem incurrit._
+_Brut._--Brutus ego, Marcus Brutus; Patriæ amicus; ecce Brutum!
+      [_Exit in hostem incurrens._ CATO _cadit._
+_Lucil._--O Cato, nobilissime puer, tune etiam?--Esto--dignus Titinii
+
+
+Occiso Bruto, tibi honor erit.
+_1 Miles._--Non licet. Captivum vere nobilem habemus.
+_2 Miles._--Ohe! locum date. Dic Antonio Brutum captum esse.
+_1 Miles._--Dicam.--Sed ecce Antonium.
+ANTONIUS.
+Brutum habemus, domine; Brutum habemus.
+_Ant._--Ubi igitur Brutus?
+_Lucil._--Salvus, Antoni; satis salvus Brutus est: tu pro certo habe
+ab illo prohibeant! Quod si enim aliquando inveneris, vivus sit,
+
+tuto et comiter custodias: mallem tales amicos, quam inimicos. Ite,
+Octavii tentorium referte.      [_Exeunt._
+
+
+
+
+
+domine: vel captus, vel occisus est.
+_Brut._--Huc, Clite, ad me: sedas: apte "occisum" dicis: cædendi
+
+
+
+
+
+
+
+
+
+
+
+ut ex oculis exundet dolor.
+_Brut._--Huc, mî Volumni, verbum tecum.
+_Volum._--Quid vult dominus meus?
+_Brut._--Nempe hoc volo: Cæsaris umbra mihi visa est: bis
+Mortis meæ horam adesse sentio.
+_Volum._--Ne ita, domine.
+_Brut._--Adest, Volumni; satis scio. Nonne vides quo in casu simus?
+expectare compellentium manus. Mî Volumni, meministi nos olim apud
+ensem meum fixum teneas, ut in eum memet conjiciam.
+_Volum._--Istud vix amici, domine.      [_Strepitus pugnæ._
+_Clit._--Fugiendum, domine, fugiendum; nullus jam moræ locus.
+_Brut._--Valeas;--et tu;--et tu, Volumni. Strato; ah dormiebas;--et
+quamdiu vixerim, neminem, nisi mihi fidelem, cognoverim. Mihi devicto
+victoriâ potitis. Bene itaque omnes simul valeatis; paullum abest ut
+mea, quæ in hanc horam exoptandam laborârunt, libentissime
+
+
+
+
+
+profecto honoris expers: ensem meum prehendas, faciemque avertas, dum
+
+
+promtior in meipsum, quam in te, manus mea!
+      [_Se in ensem conjicit. Moritur. Pugnæ strepitus. Victi
+
+
+
+
+comburendum tradit. Brutus a Bruto solo superatur. Bruti mors nemini
+
+Lucilium verum vatem comprobaveris.
+_Oct._--Qui Bruti erant nemo non a me acceptus erit. Tune mecum mî
+
+
+
+
+
+officium supremum reddidit.
+_Ant._--Hic istorum omnium nobilissimus Romanus: alii omnes magni
+communi omnium bono, se cum cæteris consociavit. Mite ingenium,
+monstrare, et coram omnibus proclamare possit--Ecce--Homo fuit!
+_Oct._--Hunc igitur, pro ejus virtute, omni cultu, exequiis rite
+milieem decet, summo honore componendum curemus. Nostri jam
+erit, participemus.
+      [_Exeunt._
+
+FINIS.
+
+
+
+
+
+Transcriber's Notes:
+Actus I, Scena II: "(quorum tu-Cassi" -> "(quorum tu Cassi"
+Actus I, Scena II: "inter pretentur" (at page break) ->
+
+
+
+
+"ARTEMIDORUS/Art." (according to "The Complete Works of William
+
+sint..." -> "_Casc._--Jamne parati sumus?" and next line:
+of William Shakespeare", Spring Books London)
+Actus III, Scena I: "_Cas._--Pro me" -> "_Casc._--Pro me"
+Actus III, Scena II: "pænam luit" -> "pœnam luit"
+Actus III, Scena II: "graves pænas" -> "graves pœnas"
+Actus III, Scena II: "_Cit. 2._--O Cæsarem" -> "_Civ. 2._--O
+
+
+
+domine." (according to "The Complete Works of William Shakespeare",
+
+because "optumus" is a valid albeit old variant.
+Actus V, Scena III: "[_Exit Messala._" -> "[_Exit MESSALA._"
+
+
+End of the Project Gutenberg EBook of Julius Caesar, by William Shakespeare
+*** END OF THIS PROJECT GUTENBERG EBOOK JULIUS CAESAR ***
+***** This file should be named 46768-0.txt or 46768-0.zip *****
+        http://www.gutenberg.org/4/6/7/6/46768/
+Produced by Carolus Raeticus
+be renamed.
+Creating the works from print editions not protected by U.S. copyright
+so the Foundation (and you!) can copy and distribute it in the United
+royalties. Special rules, set forth in the General Terms of Use part
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+and may not be used if you charge for the eBooks, unless you receive
+eBook, complying with the rules is very easy. You may use this eBook
+performances and research. They may be modified and printed and given
+not protected by U.S. copyright law. Redistribution is subject to the
+
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+To protect the Project Gutenberg-tm mission of promoting the free
+(or any other work associated in any way with the phrase "Project
+Project Gutenberg-tm License available with this file or online at
+
+Gutenberg-tm electronic works
+1.A. By reading or using any part of this Project Gutenberg-tm
+and accept all the terms of this license and intellectual property
+the terms of this agreement, you must cease using and return or
+possession. If you paid a fee for obtaining a copy of or access to a
+by the terms of this agreement, you may obtain a refund from the
+1.E.8.
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+agree to be bound by the terms of this agreement. There are a few
+even without complying with the full terms of this agreement. See
+Gutenberg-tm electronic works if you follow the terms of this
+electronic works. See paragraph 1.E below.
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+of Project Gutenberg-tm electronic works. Nearly all the individual
+States. If an individual work is unprotected by copyright law in the
+claim a right to prevent you from copying, distributing, performing,
+all references to Project Gutenberg are removed. Of course, we hope
+free access to electronic works by freely sharing Project Gutenberg-tm
+Project Gutenberg-tm name associated with the work. You can easily
+same format with its attached full Project Gutenberg-tm License when
+
+what you can do with this work. Copyright laws in most countries are
+check the laws of your country in addition to the terms of this
+distributing or creating derivative works based on this work or any
+representations concerning the copyright status of any work in any
+
+
+immediate access to, the full Project Gutenberg-tm License must appear
+on which the phrase "Project Gutenberg" appears, or with which the
+performed, viewed, copied or distributed:
+  This eBook is for the use of anyone anywhere in the United States and
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  eBook or online at www.gutenberg.org. If you are not located in the
+  are located before using this ebook.
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+contain a notice indicating that it is posted with permission of the
+the United States without paying any fees or charges. If you are
+Gutenberg" associated with or appearing on the work, you must comply
+obtain permission for the use of the work and the Project Gutenberg-tm
+
+with the permission of the copyright holder, your use and distribution
+additional terms imposed by the copyright holder. Additional terms
+posted with the permission of the copyright holder found at the
+
+License terms from this work, or any files containing a part of this
+
+electronic work, or any part of this electronic work, without
+active links or immediate access to the full terms of the Project
+
+compressed, marked up, nonproprietary or proprietary form, including
+to or distribute copies of a Project Gutenberg-tm work in a format
+version posted on the official Project Gutenberg-tm web site
+to the user, provide a copy, a means of exporting a copy, or a means
+Vanilla ASCII" or other form. Any alternate format must include the
+
+performing, copying or distributing any Project Gutenberg-tm works
+
+access to or distributing Project Gutenberg-tm electronic works
+
+  the use of Project Gutenberg-tm works calculated using the method
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  legally required to prepare) your periodic tax returns. Royalty
+  Gutenberg Literary Archive Foundation at the address specified in
+  Literary Archive Foundation."
+* You provide a full refund of any money paid by a user who notifies
+  does not agree to the terms of the full Project Gutenberg-tm
+  copies of the works possessed in a physical medium and discontinue
+  works.
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  electronic work is discovered and reported to you within 90 days of
+
+  distribution of Project Gutenberg-tm works.
+1.E.9. If you wish to charge a fee or distribute a Project
+are set forth in this agreement, you must obtain permission in writing
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+
+
+effort to identify, do copyright research on, transcribe and proofread
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+intellectual property infringement, a defective or damaged disk or
+cannot be read by your equipment.
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+DAMAGE.
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+receive a refund of the money (if any) you paid for it by sending a
+received the work on a physical medium, you must return the medium
+with the defective work may elect to provide a replacement copy in
+or entity providing it to you may choose to give you a second
+the second copy is also defective, you may demand a refund in writing
+
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+1.F.5. Some states do not allow disclaimers of certain implied
+damages. If any disclaimer or limitation set forth in this agreement
+agreement shall be interpreted to make the maximum disclaimer or
+unenforceability of any provision of this agreement shall not void the
+
+trademark owner, any agent or employee of the Foundation, anyone
+accordance with this agreement, and any volunteers associated with the
+electronic works, harmless from all liability, costs and expenses,
+the following which you do or cause to occur: (a) distribution of this
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+
+
+electronic works in formats readable by the widest variety of
+exists because of the efforts of hundreds of volunteers and donations
+
+assistance they need are critical to reaching Project Gutenberg-tm's
+remain freely available for generations to come. In 2001, the Project
+and permanent future for Project Gutenberg-tm and future
+Archive Foundation and how your efforts and donations can help, see
+www.gutenberg.org Section 3. Information about the Project Gutenberg
+
+501(c)(3) educational corporation organized under the laws of the
+Revenue Service. The Foundation's EIN or federal tax identification
+Archive Foundation are tax deductible to the full extent permitted by
+
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+locations. Its business office is located at 809 North 1500 West, Salt
+date contact information can be found at the Foundation's web site and
+
+
+    Chief Executive and Director
+
+Literary Archive Foundation
+Project Gutenberg-tm depends upon and cannot survive without wide
+increasing the number of public domain and licensed works that can be
+array of equipment including outdated equipment. Many small donations
+status with the IRS.
+The Foundation is committed to complying with the laws regulating
+States. Compliance requirements are not uniform and it takes a
+with these requirements. We do not solicit donations in locations
+DONATIONS or determine the status of compliance for any particular
+
+have not met the solicitation requirements, we know of no prohibition
+approach us with offers to donate.
+International donations are gratefully accepted, but we cannot make
+outside the United States. U.S. laws alone swamp our small staff.
+Please check the Project Gutenberg Web pages for current donation
+ways including checks, online payments and credit card donations. To
+
+
+Gutenberg-tm concept of a library of electronic works that could be
+distributed Project Gutenberg-tm eBooks with only a loose network of
+
+editions, all of which are confirmed as not protected by copyright in
+necessarily keep eBooks in compliance with any particular paper
+
+facility: www.gutenberg.org
+This Web site includes information about Project Gutenberg-tm,
+Archive Foundation, how to help produce our new eBooks, and how to
+
